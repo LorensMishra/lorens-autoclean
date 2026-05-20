@@ -1,0 +1,169 @@
+2026-05-20 13:09:02,675 - INFO - Successfully validated Book1.xlsx
+2026-05-20 13:09:02,691 - INFO - Loaded 6 rows from Book1.xlsx
+2026-05-20 13:09:08,328 - INFO - Successfully validated Book1.xlsx
+2026-05-20 13:09:08,338 - INFO - Loaded 6 rows from Book1.xlsx
+2026-05-20 13:09:14,548 - INFO - Successfully validated Book1.xlsx
+2026-05-20 13:09:14,559 - INFO - Loaded 6 rows from Book1.xlsx
+2026-05-20 13:09:35,042 - INFO - Successfully validated Book1.xlsx
+2026-05-20 13:09:35,048 - INFO - Loaded 6 rows from Book1.xlsx
+2026-05-20 13:09:37,018 - INFO - Successfully validated Book1.xlsx
+2026-05-20 13:09:37,030 - INFO - Loaded 6 rows from Book1.xlsx
+2026-05-20 13:09:58,661 - INFO - Successfully validated Book1.xlsx
+2026-05-20 13:09:58,669 - INFO - Loaded 6 rows from Book1.xlsx
+2026-05-20 13:11:13,619 - INFO - Successfully validated Book1.xlsx
+2026-05-20 13:11:13,632 - INFO - Loaded 6 rows from Book1.xlsx
+2026-05-20 13:11:21,047 - INFO - Successfully validated Book1.xlsx
+2026-05-20 13:11:21,061 - INFO - Loaded 6 rows from Book1.xlsx
+2026-05-20 13:11:55,577 - INFO - Successfully validated Book1.xlsx
+2026-05-20 13:11:55,584 - INFO - Loaded 6 rows from Book1.xlsx
+2026-05-20 13:12:01,795 - INFO - Successfully validated Book1.xlsx
+2026-05-20 13:12:01,808 - INFO - Loaded 6 rows from Book1.xlsx
+2026-05-20 13:13:41,388 - INFO - Successfully validated 2026-05-20T07-40_export.csv
+2026-05-20 13:13:41,391 - INFO - Loaded 5 rows from 2026-05-20T07-40_export.csv
+2026-05-20 13:13:43,140 - INFO - Successfully validated 2026-05-20T07-40_export.csv
+2026-05-20 13:13:43,142 - INFO - Loaded 5 rows from 2026-05-20T07-40_export.csv
+2026-05-20 13:13:48,707 - INFO - Successfully validated 2026-05-20T07-40_export.csv
+2026-05-20 13:13:48,709 - INFO - Loaded 5 rows from 2026-05-20T07-40_export.csv
+2026-05-20 13:14:00,684 - INFO - Successfully validated All schools.csv
+2026-05-20 13:14:00,687 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 13:14:02,713 - INFO - Successfully validated All schools.csv
+2026-05-20 13:14:02,717 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 13:14:41,476 - INFO - Successfully validated questions_cheet_sheet.xlsx
+2026-05-20 13:14:41,981 - INFO - Loaded 29 rows from questions_cheet_sheet.xlsx
+2026-05-20 13:14:43,950 - INFO - Successfully validated questions_cheet_sheet.xlsx
+2026-05-20 13:14:44,338 - INFO - Loaded 29 rows from questions_cheet_sheet.xlsx
+2026-05-20 13:24:34,879 - ERROR - File corruption or read error in AR Quality.xlsx: Unable to read workbook: could not read stylesheet from AR Quality.xlsx.
+This is most probably because the workbook source files contain some invalid XML.
+Please see the exception for more details.
+2026-05-20 13:25:57,348 - INFO - Successfully validated Book1.xlsx
+2026-05-20 13:25:57,390 - INFO - Loaded 48 rows from Book1.xlsx
+2026-05-20 13:26:49,064 - INFO - Successfully validated Book1.xlsx
+2026-05-20 13:26:49,101 - INFO - Loaded 48 rows from Book1.xlsx
+2026-05-20 13:26:53,732 - INFO - Successfully validated Book1.xlsx
+2026-05-20 13:26:53,777 - INFO - Loaded 48 rows from Book1.xlsx
+2026-05-20 13:31:25,053 - INFO - Successfully validated Book1.xlsx
+2026-05-20 13:31:25,103 - INFO - Loaded 48 rows from Book1.xlsx
+2026-05-20 13:31:34,846 - INFO - Successfully validated Book1.xlsx
+2026-05-20 13:31:34,914 - INFO - Loaded 48 rows from Book1.xlsx
+2026-05-20 15:00:12,177 - INFO - Successfully validated 2026-05-20T07-40_export.csv
+2026-05-20 15:00:12,179 - INFO - Loaded 5 rows from 2026-05-20T07-40_export.csv
+2026-05-20 15:02:50,908 - INFO - Successfully validated 2026-05-20T07-40_export.csv
+2026-05-20 15:02:50,915 - INFO - Loaded 5 rows from 2026-05-20T07-40_export.csv
+2026-05-20 15:02:53,826 - INFO - Successfully validated 2026-05-20T07-40_export.csv
+2026-05-20 15:02:53,827 - INFO - Loaded 5 rows from 2026-05-20T07-40_export.csv
+2026-05-20 15:03:20,080 - INFO - Successfully validated All schools.csv
+2026-05-20 15:03:20,088 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:03:26,043 - INFO - Successfully validated All schools.csv
+2026-05-20 15:03:26,056 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:05:59,748 - INFO - Successfully validated All schools.csv
+2026-05-20 15:05:59,752 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:06:04,118 - INFO - Successfully validated All schools.csv
+2026-05-20 15:06:04,125 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:06:11,622 - INFO - Successfully validated All schools.csv
+2026-05-20 15:06:11,624 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:06:15,744 - INFO - Successfully validated All schools.csv
+2026-05-20 15:06:15,749 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:06:26,442 - INFO - Successfully validated All schools.csv
+2026-05-20 15:06:26,446 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:06:37,542 - INFO - Successfully validated All schools.csv
+2026-05-20 15:06:37,546 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:06:38,724 - INFO - Successfully validated All schools.csv
+2026-05-20 15:06:38,727 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:06:54,421 - INFO - Successfully validated All schools.csv
+2026-05-20 15:06:54,424 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:06:58,922 - INFO - Successfully validated All schools.csv
+2026-05-20 15:06:58,926 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:07:01,799 - INFO - Successfully validated All schools.csv
+2026-05-20 15:07:01,802 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:07:11,773 - INFO - Successfully validated All schools.csv
+2026-05-20 15:07:11,777 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:07:12,948 - INFO - Successfully validated All schools.csv
+2026-05-20 15:07:12,953 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:07:17,760 - INFO - Successfully validated All schools.csv
+2026-05-20 15:07:17,762 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:07:24,052 - INFO - Successfully validated All schools.csv
+2026-05-20 15:07:24,057 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:07:27,543 - INFO - Successfully validated All schools.csv
+2026-05-20 15:07:27,547 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:08:52,061 - INFO - Successfully validated All schools.csv
+2026-05-20 15:08:52,065 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:08:55,508 - INFO - Successfully validated All schools.csv
+2026-05-20 15:08:55,511 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:09:03,603 - INFO - Successfully validated All schools.csv
+2026-05-20 15:09:03,607 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:09:06,110 - INFO - Successfully validated All schools.csv
+2026-05-20 15:09:06,114 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:09:16,816 - INFO - Successfully validated All schools.csv
+2026-05-20 15:09:16,820 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:09:35,054 - INFO - Successfully validated All schools.csv
+2026-05-20 15:09:35,058 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:10:36,334 - INFO - Successfully validated All schools.csv
+2026-05-20 15:10:36,337 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:11:06,261 - INFO - Successfully validated All schools.csv
+2026-05-20 15:11:06,266 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:11:32,890 - INFO - Successfully validated All schools.csv
+2026-05-20 15:11:32,893 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:11:38,616 - INFO - Successfully validated All schools.csv
+2026-05-20 15:11:38,620 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:11:41,023 - INFO - Successfully validated All schools.csv
+2026-05-20 15:11:41,026 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:11:45,612 - INFO - Successfully validated All schools.csv
+2026-05-20 15:11:45,620 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:14:01,796 - INFO - Successfully validated All schools.csv
+2026-05-20 15:14:01,805 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:14:13,059 - INFO - Successfully validated All schools.csv
+2026-05-20 15:14:13,067 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:14:15,551 - INFO - Successfully validated All schools.csv
+2026-05-20 15:14:15,561 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:14:40,505 - INFO - Successfully validated All schools.csv
+2026-05-20 15:14:40,511 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:14:48,699 - INFO - Successfully validated All schools.csv
+2026-05-20 15:14:48,707 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:14:49,817 - INFO - Successfully validated All schools.csv
+2026-05-20 15:14:49,825 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:15:11,748 - INFO - Successfully validated All schools.csv
+2026-05-20 15:15:11,754 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:18:29,648 - INFO - Successfully validated All schools.csv
+2026-05-20 15:18:29,653 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:18:40,942 - INFO - Successfully validated All schools.csv
+2026-05-20 15:18:40,953 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:18:45,004 - INFO - Successfully validated All schools.csv
+2026-05-20 15:18:45,026 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:18:47,134 - INFO - Successfully validated All schools.csv
+2026-05-20 15:18:47,141 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:19:11,968 - INFO - Successfully validated All schools.csv
+2026-05-20 15:19:11,978 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:19:16,460 - INFO - Successfully validated All schools.csv
+2026-05-20 15:19:16,470 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:19:17,803 - INFO - Successfully validated All schools.csv
+2026-05-20 15:19:17,810 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:19:44,511 - INFO - Successfully validated All schools.csv
+2026-05-20 15:19:44,517 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:19:46,262 - INFO - Successfully validated All schools.csv
+2026-05-20 15:19:46,267 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:37:40,020 - INFO - Successfully validated All schools.csv
+2026-05-20 15:37:40,027 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:38:46,758 - INFO - Successfully validated All schools.csv
+2026-05-20 15:38:46,764 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:39:15,115 - INFO - Successfully validated All schools.csv
+2026-05-20 15:39:15,122 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:43:31,690 - INFO - Successfully validated All schools.csv
+2026-05-20 15:43:31,698 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:44:10,692 - INFO - Successfully validated All schools.csv
+2026-05-20 15:44:10,705 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:44:21,548 - INFO - Successfully validated All schools.csv
+2026-05-20 15:44:21,555 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:44:23,174 - INFO - Successfully validated All schools.csv
+2026-05-20 15:44:23,183 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:45:46,855 - INFO - Successfully validated All schools.csv
+2026-05-20 15:45:46,861 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:46:09,900 - INFO - Successfully validated All schools.csv
+2026-05-20 15:46:09,907 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:46:11,859 - INFO - Successfully validated All schools.csv
+2026-05-20 15:46:11,866 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:47:07,486 - INFO - Successfully validated All schools.csv
+2026-05-20 15:47:07,491 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:47:18,100 - INFO - Successfully validated All schools.csv
+2026-05-20 15:47:18,106 - INFO - Loaded 158 rows from All schools.csv
+2026-05-20 15:47:19,251 - INFO - Successfully validated All schools.csv
+2026-05-20 15:47:19,262 - INFO - Loaded 158 rows from All schools.csv

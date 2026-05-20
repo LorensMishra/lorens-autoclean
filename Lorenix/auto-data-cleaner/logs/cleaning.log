@@ -1,0 +1,477 @@
+2026-05-20 13:09:08,342 - INFO - Starting automated data cleaning process...
+2026-05-20 13:09:08,353 - INFO - Removed 1 duplicate rows.
+2026-05-20 13:09:08,357 - INFO - Standardized text columns.
+2026-05-20 13:09:08,362 - INFO - Detected 2 outliers in column 'Age '.
+2026-05-20 13:09:08,363 - INFO - Data cleaning completed.
+2026-05-20 13:09:35,053 - INFO - Starting automated data cleaning process...
+2026-05-20 13:09:35,056 - INFO - Removed 1 duplicate rows.
+2026-05-20 13:09:35,058 - INFO - Standardized text columns.
+2026-05-20 13:09:35,061 - INFO - Detected 2 outliers in column 'Age '.
+2026-05-20 13:09:35,061 - INFO - Data cleaning completed.
+2026-05-20 13:09:58,676 - INFO - Starting automated data cleaning process...
+2026-05-20 13:09:58,678 - INFO - Removed 1 duplicate rows.
+2026-05-20 13:09:58,679 - INFO - Standardized text columns.
+2026-05-20 13:09:58,681 - INFO - Detected 2 outliers in column 'Age '.
+2026-05-20 13:09:58,681 - INFO - Data cleaning completed.
+2026-05-20 13:11:13,639 - INFO - Starting automated data cleaning process...
+2026-05-20 13:11:13,646 - INFO - Removed 1 duplicate rows.
+2026-05-20 13:11:13,649 - INFO - Standardized text columns.
+2026-05-20 13:11:13,656 - INFO - Detected 2 outliers in column 'Age '.
+2026-05-20 13:11:13,656 - INFO - Data cleaning completed.
+2026-05-20 13:11:21,076 - INFO - Starting automated data cleaning process...
+2026-05-20 13:11:21,084 - INFO - Removed 1 duplicate rows.
+2026-05-20 13:11:21,088 - INFO - Standardized text columns.
+2026-05-20 13:11:21,100 - INFO - Detected 2 outliers in column 'Age '.
+2026-05-20 13:11:21,102 - INFO - Data cleaning completed.
+2026-05-20 13:12:01,821 - INFO - Starting automated data cleaning process...
+2026-05-20 13:12:01,824 - INFO - Removed 1 duplicate rows.
+2026-05-20 13:12:01,832 - INFO - Standardized text columns.
+2026-05-20 13:12:01,835 - INFO - Detected 2 outliers in column 'Age '.
+2026-05-20 13:12:01,836 - INFO - Data cleaning completed.
+2026-05-20 13:13:43,150 - INFO - Starting automated data cleaning process...
+2026-05-20 13:13:43,160 - INFO - Standardized text columns.
+2026-05-20 13:13:43,163 - INFO - Detected 2 outliers in column 'Age '.
+2026-05-20 13:13:43,164 - INFO - Data cleaning completed.
+2026-05-20 13:13:48,714 - INFO - Starting automated data cleaning process...
+2026-05-20 13:13:48,718 - INFO - Standardized text columns.
+2026-05-20 13:13:48,721 - INFO - Detected 2 outliers in column 'Age '.
+2026-05-20 13:13:48,722 - INFO - Data cleaning completed.
+2026-05-20 13:14:02,725 - INFO - Starting automated data cleaning process...
+2026-05-20 13:14:02,754 - INFO - Standardized text columns.
+2026-05-20 13:14:02,757 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 13:14:02,758 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 13:14:02,761 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 13:14:02,762 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 13:14:02,763 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 13:14:02,764 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 13:14:02,765 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 13:14:02,766 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 13:14:02,767 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 13:14:02,768 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 13:14:02,769 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 13:14:02,770 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 13:14:02,771 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 13:14:02,775 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 13:14:02,780 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 13:14:02,783 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 13:14:02,784 - INFO - Data cleaning completed.
+2026-05-20 13:14:44,347 - INFO - Starting automated data cleaning process...
+2026-05-20 13:14:44,350 - INFO - Removed 7 fully empty rows.
+2026-05-20 13:14:44,363 - INFO - Standardized text columns.
+2026-05-20 13:14:44,367 - INFO - Filled 22 missing values in 'Unnamed: 0' with median nan.
+2026-05-20 13:14:44,368 - INFO - Filled 22 missing values in 'Unnamed: 2' with median nan.
+2026-05-20 13:14:44,372 - INFO - Filled 22 missing values in 'Unnamed: 4' with median nan.
+2026-05-20 13:14:44,376 - INFO - Filled 22 missing values in 'Unnamed: 6' with median nan.
+2026-05-20 13:14:44,377 - INFO - Filled 22 missing values in 'Unnamed: 8' with median nan.
+2026-05-20 13:14:44,378 - INFO - Filled 22 missing values in 'Unnamed: 10' with median nan.
+2026-05-20 13:14:44,379 - INFO - Filled 22 missing values in 'Unnamed: 12' with median nan.
+2026-05-20 13:14:44,380 - INFO - Filled 5 missing values in 'Unnamed: 1' with mode '1. Find The Sum Of All Elements In An Array'.
+2026-05-20 13:14:44,381 - INFO - Filled 11 missing values in 'Unnamed: 3' with mode '16. Implement Linear Search In An Array'.
+2026-05-20 13:14:44,382 - INFO - Filled 1 missing values in 'Unnamed: 5' with mode '26. Implement Bubble Sort'.
+2026-05-20 13:14:44,385 - INFO - Filled 1 missing values in 'Unnamed: 7' with mode '46. Find The Sum Of All Subarrays'.
+2026-05-20 13:14:44,386 - INFO - Filled 6 missing values in 'Unnamed: 9' with mode '66. Pair Sum In A Sorted Array'.
+2026-05-20 13:14:44,388 - INFO - Filled 11 missing values in 'Unnamed: 11' with mode '81. Print A 2D Array'.
+2026-05-20 13:14:44,389 - INFO - Filled 11 missing values in 'Unnamed: 13' with mode '100. Maximum Sum Of Non-Adjacent Elements'.
+2026-05-20 13:14:44,398 - INFO - Data cleaning completed.
+2026-05-20 13:26:53,798 - INFO - Starting automated data cleaning process...
+2026-05-20 13:26:53,831 - INFO - Standardized text columns.
+2026-05-20 13:26:53,833 - INFO - Converted column 'Date Worked' to datetime.
+2026-05-20 13:26:53,836 - INFO - Converted column 'Work date' to datetime.
+2026-05-20 13:26:53,838 - INFO - Converted column 'Issue Date' to datetime.
+2026-05-20 13:26:53,841 - INFO - Filled 40 missing values in 'Check/EFT#' with median 59064340.5.
+2026-05-20 13:26:53,842 - INFO - Filled 48 missing values in 'Ticket' with median nan.
+2026-05-20 13:26:53,845 - INFO - Filled 26 missing values in 'Task Log #' with mode '444670'.
+2026-05-20 13:26:53,849 - INFO - Filled 47 missing values in 'Feedback parameter' with mode 'False Action – Missing/Inaccurate Task Subject/Assigning'.
+2026-05-20 13:26:53,850 - INFO - Filled 47 missing values in 'Feedback Note' with mode 'Incorrect Task Subject Mentioned In The Sheet. As The User Is Working On The Clearing House Rejection, So The Task Subject Should Be Clearing House Rejection.'.
+2026-05-20 13:26:53,853 - INFO - Detected 4 outliers in column 'DOS'.
+2026-05-20 13:26:53,855 - INFO - Detected 8 outliers in column 'Check/EFT#'.
+2026-05-20 13:26:53,857 - INFO - Detected 1 outliers in column 'Non-Fatal'.
+2026-05-20 13:26:53,859 - INFO - Detected 1 outliers in column 'Total Error'.
+2026-05-20 13:26:53,861 - INFO - Detected 1 outliers in column 'Accuracy'.
+2026-05-20 13:26:53,861 - INFO - Data cleaning completed.
+2026-05-20 13:31:34,945 - INFO - Starting automated data cleaning process...
+2026-05-20 13:31:35,000 - INFO - Standardized text columns.
+2026-05-20 13:31:35,003 - INFO - Converted column 'Date Worked' to datetime.
+2026-05-20 13:31:35,004 - INFO - Converted column 'Work date' to datetime.
+2026-05-20 13:31:35,006 - INFO - Converted column 'Issue Date' to datetime.
+2026-05-20 13:31:35,008 - INFO - Filled 40 missing values in 'Check/EFT#' with median 59064340.5.
+2026-05-20 13:31:35,010 - INFO - Filled 48 missing values in 'Ticket' with median nan.
+2026-05-20 13:31:35,017 - INFO - Filled 26 missing values in 'Task Log #' with mode '444670'.
+2026-05-20 13:31:35,023 - INFO - Filled 47 missing values in 'Feedback parameter' with mode 'False Action – Missing/Inaccurate Task Subject/Assigning'.
+2026-05-20 13:31:35,025 - INFO - Filled 47 missing values in 'Feedback Note' with mode 'Incorrect Task Subject Mentioned In The Sheet. As The User Is Working On The Clearing House Rejection, So The Task Subject Should Be Clearing House Rejection.'.
+2026-05-20 13:31:35,034 - INFO - Detected 4 outliers in column 'DOS'.
+2026-05-20 13:31:35,037 - INFO - Detected 8 outliers in column 'Check/EFT#'.
+2026-05-20 13:31:35,042 - INFO - Detected 1 outliers in column 'Non-Fatal'.
+2026-05-20 13:31:35,048 - INFO - Detected 1 outliers in column 'Total Error'.
+2026-05-20 13:31:35,053 - INFO - Detected 1 outliers in column 'Accuracy'.
+2026-05-20 13:31:35,054 - INFO - Data cleaning completed.
+2026-05-20 15:02:53,833 - INFO - Starting automated data cleaning process...
+2026-05-20 15:02:53,844 - INFO - Standardized text columns.
+2026-05-20 15:02:53,849 - INFO - Detected 2 outliers in column 'Age '.
+2026-05-20 15:02:53,850 - INFO - Data cleaning completed.
+2026-05-20 15:03:26,067 - INFO - Starting automated data cleaning process...
+2026-05-20 15:03:26,140 - INFO - Standardized text columns.
+2026-05-20 15:03:26,141 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:03:26,142 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:03:26,144 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:03:26,145 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:03:26,146 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:03:26,147 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:03:26,147 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:03:26,148 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:03:26,151 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:03:26,152 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:03:26,153 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:03:26,154 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:03:26,155 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:03:26,156 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:03:26,164 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:03:26,168 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:03:26,170 - INFO - Data cleaning completed.
+2026-05-20 15:06:04,136 - INFO - Starting automated data cleaning process...
+2026-05-20 15:06:04,169 - INFO - Standardized text columns.
+2026-05-20 15:06:04,171 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:06:04,172 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:06:04,175 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:06:04,177 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:06:04,178 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:06:04,179 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:06:04,180 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:06:04,183 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:06:04,185 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:06:04,186 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:06:04,187 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:06:04,189 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:06:04,191 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:06:04,195 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:06:04,199 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:06:04,202 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:06:04,203 - INFO - Data cleaning completed.
+2026-05-20 15:06:15,760 - INFO - Starting automated data cleaning process...
+2026-05-20 15:06:15,806 - INFO - Standardized text columns.
+2026-05-20 15:06:15,808 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:06:15,809 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:06:15,814 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:06:15,817 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:06:15,818 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:06:15,821 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:06:15,822 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:06:15,823 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:06:15,823 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:06:15,825 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:06:15,825 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:06:15,826 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:06:15,827 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:06:15,828 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:06:15,831 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:06:15,833 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:06:15,834 - INFO - Data cleaning completed.
+2026-05-20 15:06:38,738 - INFO - Starting automated data cleaning process...
+2026-05-20 15:06:38,742 - INFO - Removed 156 duplicate rows.
+2026-05-20 15:06:38,773 - INFO - Standardized text columns.
+2026-05-20 15:06:38,774 - INFO - Filled 2 missing values in 'ANNEXE' with median nan.
+2026-05-20 15:06:38,778 - INFO - Filled 2 missing values in 'COMM_ED_AR' with median nan.
+2026-05-20 15:06:38,781 - INFO - Filled 2 missing values in 'SIP_AREA' with median nan.
+2026-05-20 15:06:38,784 - INFO - Filled 1 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:06:38,801 - INFO - Data cleaning completed.
+2026-05-20 15:07:01,818 - INFO - Starting automated data cleaning process...
+2026-05-20 15:07:01,854 - INFO - Standardized text columns.
+2026-05-20 15:07:01,856 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:07:01,857 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:07:01,862 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:07:01,863 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:07:01,864 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:07:01,865 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:07:01,866 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:07:01,867 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:07:01,868 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:07:01,871 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:07:01,873 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:07:01,875 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:07:01,876 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:07:01,877 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:07:01,881 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:07:01,883 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:07:01,885 - INFO - Data cleaning completed.
+2026-05-20 15:07:12,966 - INFO - Starting automated data cleaning process...
+2026-05-20 15:07:13,008 - INFO - Standardized text columns.
+2026-05-20 15:07:13,010 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:07:13,011 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:07:13,016 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:07:13,018 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:07:13,022 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:07:13,024 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:07:13,025 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:07:13,026 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:07:13,029 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:07:13,031 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:07:13,032 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:07:13,033 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:07:13,033 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:07:13,034 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:07:13,037 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:07:13,040 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:07:13,041 - INFO - Data cleaning completed.
+2026-05-20 15:07:27,554 - INFO - Starting automated data cleaning process...
+2026-05-20 15:07:27,589 - INFO - Standardized text columns.
+2026-05-20 15:07:27,592 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:07:27,594 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:07:27,599 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:07:27,603 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:07:27,605 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:07:27,606 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:07:27,607 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:07:27,608 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:07:27,609 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:07:27,610 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:07:27,611 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:07:27,611 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:07:27,612 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:07:27,613 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:07:27,616 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:07:27,618 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:07:27,618 - INFO - Data cleaning completed.
+2026-05-20 15:08:55,519 - INFO - Starting automated data cleaning process...
+2026-05-20 15:08:55,550 - INFO - Standardized text columns.
+2026-05-20 15:08:55,551 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:08:55,553 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:08:55,558 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:08:55,559 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:08:55,560 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:08:55,561 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:08:55,562 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:08:55,564 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:08:55,568 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:08:55,569 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:08:55,571 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:08:55,573 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:08:55,574 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:08:55,576 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:08:55,584 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:08:55,591 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:08:55,591 - INFO - Data cleaning completed.
+2026-05-20 15:09:06,121 - INFO - Starting automated data cleaning process...
+2026-05-20 15:09:06,159 - INFO - Standardized text columns.
+2026-05-20 15:09:06,161 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:09:06,162 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:09:06,168 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:09:06,171 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:09:06,172 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:09:06,173 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:09:06,174 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:09:06,175 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:09:06,176 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:09:06,177 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:09:06,178 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:09:06,179 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:09:06,181 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:09:06,185 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:09:06,189 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:09:06,191 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:09:06,191 - INFO - Data cleaning completed.
+2026-05-20 15:09:35,070 - INFO - Starting automated data cleaning process...
+2026-05-20 15:09:35,092 - INFO - Standardized text columns.
+2026-05-20 15:09:35,097 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:09:35,099 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:09:35,102 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:09:35,103 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:09:35,105 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:09:35,107 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:09:35,109 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:09:35,114 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:09:35,115 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:09:35,117 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:09:35,119 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:09:35,119 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:09:35,120 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:09:35,121 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:09:35,124 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:09:35,127 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:09:35,128 - INFO - Data cleaning completed.
+2026-05-20 15:11:41,037 - INFO - Starting automated data cleaning process...
+2026-05-20 15:11:41,083 - INFO - Standardized text columns.
+2026-05-20 15:11:41,085 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:11:41,087 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:11:41,090 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:11:41,091 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:11:41,092 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:11:41,093 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:11:41,094 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:11:41,094 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:11:41,095 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:11:41,096 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:11:41,097 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:11:41,099 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:11:41,100 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:11:41,101 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:11:41,105 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:11:41,113 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:11:41,115 - INFO - Data cleaning completed.
+2026-05-20 15:14:15,579 - INFO - Starting automated data cleaning process...
+2026-05-20 15:14:15,639 - INFO - Standardized text columns.
+2026-05-20 15:14:15,640 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:14:15,641 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:14:15,645 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:14:15,647 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:14:15,650 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:14:15,653 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:14:15,656 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:14:15,660 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:14:15,663 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:14:15,667 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:14:15,670 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:14:15,672 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:14:15,674 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:14:15,676 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:14:15,688 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:14:15,695 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:14:15,697 - INFO - Data cleaning completed.
+2026-05-20 15:14:49,841 - INFO - Starting automated data cleaning process...
+2026-05-20 15:14:49,849 - INFO - Removed 156 duplicate rows.
+2026-05-20 15:14:49,890 - INFO - Standardized text columns.
+2026-05-20 15:14:49,893 - INFO - Filled 2 missing values in 'ANNEXE' with median nan.
+2026-05-20 15:14:49,897 - INFO - Filled 2 missing values in 'COMM_ED_AR' with median nan.
+2026-05-20 15:14:49,899 - INFO - Filled 2 missing values in 'SIP_AREA' with median nan.
+2026-05-20 15:14:49,904 - INFO - Filled 1 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:14:49,931 - INFO - Data cleaning completed.
+2026-05-20 15:18:29,708 - INFO - Starting automated data cleaning process...
+2026-05-20 15:18:29,801 - INFO - Standardized text columns.
+2026-05-20 15:18:29,806 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:18:29,809 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:18:29,817 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:18:29,820 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:18:29,823 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:18:29,824 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:18:29,825 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:18:29,831 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:18:29,835 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:18:29,842 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:18:29,845 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:18:29,848 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:18:29,854 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:18:29,858 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:18:29,868 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:18:29,875 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:18:29,877 - INFO - Data cleaning completed.
+2026-05-20 15:18:47,160 - INFO - Starting automated data cleaning process...
+2026-05-20 15:18:47,213 - INFO - Standardized text columns.
+2026-05-20 15:18:47,215 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:18:47,220 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:18:47,225 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:18:47,228 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:18:47,231 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:18:47,233 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:18:47,234 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:18:47,235 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:18:47,236 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:18:47,237 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:18:47,239 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:18:47,240 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:18:47,246 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:18:47,248 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:18:47,255 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:18:47,261 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:18:47,263 - INFO - Data cleaning completed.
+2026-05-20 15:19:17,864 - INFO - Starting automated data cleaning process...
+2026-05-20 15:19:17,922 - INFO - Standardized text columns.
+2026-05-20 15:19:17,924 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:19:17,928 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:19:17,932 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:19:17,935 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:19:17,936 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:19:17,937 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:19:17,938 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:19:17,939 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:19:17,947 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:19:17,951 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:19:17,954 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:19:17,960 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:19:17,965 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:19:17,968 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:19:17,974 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:19:17,980 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:19:17,981 - INFO - Data cleaning completed.
+2026-05-20 15:19:46,281 - INFO - Starting automated data cleaning process...
+2026-05-20 15:19:46,365 - INFO - Standardized text columns.
+2026-05-20 15:19:46,367 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:19:46,368 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:19:46,377 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:19:46,379 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:19:46,386 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:19:46,393 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:19:46,394 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:19:46,399 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:19:46,401 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:19:46,403 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:19:46,411 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:19:46,414 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:19:46,415 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:19:46,415 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:19:46,425 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:19:46,433 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:19:46,434 - INFO - Data cleaning completed.
+2026-05-20 15:39:15,138 - INFO - Starting automated data cleaning process...
+2026-05-20 15:39:15,192 - INFO - Standardized text columns.
+2026-05-20 15:39:15,194 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:39:15,197 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:39:15,207 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:39:15,209 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:39:15,211 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:39:15,214 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:39:15,215 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:39:15,216 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:39:15,218 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:39:15,222 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:39:15,224 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:39:15,225 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:39:15,226 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:39:15,228 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:39:15,241 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:39:15,251 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:39:15,252 - INFO - Data cleaning completed.
+2026-05-20 15:44:23,208 - INFO - Starting automated data cleaning process...
+2026-05-20 15:44:23,274 - INFO - Standardized text columns.
+2026-05-20 15:44:23,278 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:44:23,280 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:44:23,285 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:44:23,286 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:44:23,290 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:44:23,298 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:44:23,307 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:44:23,311 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:44:23,316 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:44:23,321 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:44:23,324 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:44:23,336 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:44:23,340 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:44:23,348 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:44:23,369 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:44:23,386 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:44:23,386 - INFO - Data cleaning completed.
+2026-05-20 15:46:11,886 - INFO - Starting automated data cleaning process...
+2026-05-20 15:46:11,955 - INFO - Standardized text columns.
+2026-05-20 15:46:11,960 - INFO - Filled 14 missing values in 'WARD_NO' with median 8.5.
+2026-05-20 15:46:11,966 - INFO - Filled 14 missing values in 'SEED_NO' with median 5528574.5.
+2026-05-20 15:46:11,981 - INFO - Filled 12 missing values in 'SUB_TYPE' with mode 'Nd Primary'.
+2026-05-20 15:46:11,982 - INFO - Filled 44 missing values in 'RELIGION' with mode 'Nd'.
+2026-05-20 15:46:11,986 - INFO - Filled 84 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:46:12,000 - INFO - Filled 154 missing values in 'ANNEXE' with mode 'Yes'.
+2026-05-20 15:46:12,005 - INFO - Filled 157 missing values in 'COMM_ED_AR' with mode 'City'.
+2026-05-20 15:46:12,008 - INFO - Filled 12 missing values in 'CF_AREA' with mode 'South'.
+2026-05-20 15:46:12,010 - INFO - Filled 14 missing values in 'WARD_NAME' with mode 'Sighthill/Gorgie'.
+2026-05-20 15:46:12,014 - INFO - Filled 108 missing values in 'SIP_AREA' with mode 'South Edinburgh'.
+2026-05-20 15:46:12,019 - INFO - Filled 14 missing values in 'LDC_AREA' with mode 'Pentlands'.
+2026-05-20 15:46:12,025 - INFO - Filled 1 missing values in 'TELEPHONE' with mode '449 4529'.
+2026-05-20 15:46:12,028 - INFO - Filled 19 missing values in 'FAX_NUMBER' with mode '449 5990'.
+2026-05-20 15:46:12,032 - INFO - Filled 57 missing values in 'WEBSITE' with mode 'Www.Boroughmuir.Edin.Sch.Uk'.
+2026-05-20 15:46:12,044 - INFO - Detected 6 outliers in column 'SEED_NO'.
+2026-05-20 15:46:12,073 - INFO - Detected 1 outliers in column 'Y_COORD'.
+2026-05-20 15:46:12,074 - INFO - Data cleaning completed.
+2026-05-20 15:47:19,277 - INFO - Starting automated data cleaning process...
+2026-05-20 15:47:19,288 - INFO - Removed 156 duplicate rows.
+2026-05-20 15:47:19,325 - INFO - Standardized text columns.
+2026-05-20 15:47:19,329 - INFO - Filled 2 missing values in 'ANNEXE' with median nan.
+2026-05-20 15:47:19,332 - INFO - Filled 2 missing values in 'COMM_ED_AR' with median nan.
+2026-05-20 15:47:19,340 - INFO - Filled 2 missing values in 'SIP_AREA' with median nan.
+2026-05-20 15:47:19,348 - INFO - Filled 1 missing values in 'NURSERY' with mode 'Yes'.
+2026-05-20 15:47:19,367 - INFO - Data cleaning completed.

@@ -1,0 +1,11 @@
+=== AI-Powered Data Cleaning Summary ===
+
+Total rows before cleaning: 158
+Total rows after cleaning: 2
+Fully empty rows removed: 0
+Duplicate rows removed: 156
+Missing numeric values filled: 6
+Missing categorical values filled: 1
+
+Outliers Detected (IQR Method):
+  None detected

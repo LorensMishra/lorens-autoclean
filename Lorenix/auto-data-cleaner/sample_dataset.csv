@@ -1,0 +1,12 @@
+id,name,age,email,join_date,department,salary
+1,John Doe,28,john.doe@example.com,2023-01-15,Engineering,75000
+2,JANE SMITH,34,jane.smith@example.com,15-02-2023,Marketing,82000
+3,Bob Johnson,,bob@example.com,2023/03/10,Sales,60000
+4,alice brown,29,alice.b@example.com,04-12-2023,Engineering,
+1,John Doe,28,john.doe@example.com,2023-01-15,Engineering,75000
+5,Charlie Davis,45,charlie@example.com,2023-05-20,HR,90000
+6,Eve Wilson,22,eve.w@example.com,06/25/2023,Sales,55000
+7,Frank Thomas,50,frank@example,2023-07-30,Engineering,1200000
+8,Grace Lee,,grace.lee@example.com,,Marketing,80000
+9, Henry Ford ,38,henry@example.com,2023-09-01, HR ,85000
+10,Ivy Chen,31,ivy@example.com,2023-10-15,Engineering,78000
