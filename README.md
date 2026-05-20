@@ -1,9 +1,13 @@
 # Lorenix AI-Powered Automated Data Cleaning System
 
+<img width="1918" height="661" alt="1_FrontPage" src="https://github.com/user-attachments/assets/63143acf-ffba-4ca2-babe-9f2bc3d519c6" />
+
 A complete professional Python-based automation system that automatically cleans messy CSV or Excel datasets, generates cleaned files, reports, and visual summaries.
 
 ## Features
 - **File Upload**: Supports CSV and Excel via Drag-and-Drop.
+ <img width="1918" height="661" alt="1_FrontPage" src="https://github.com/user-attachments/assets/2d9f635b-f639-4d51-9f08-b97414d3d9fe" />
+
 - **Intelligent Cleaning**:
   - Removes duplicate rows
   - Strips extra spaces and standardizes text to Title Case
@@ -13,6 +17,8 @@ A complete professional Python-based automation system that automatically cleans
   - Fills missing categorical values with mode
   - Removes fully empty rows
   - Detects outliers using the IQR method
+<img width="1914" height="880" alt="6_raw_and_cleaning_data_result" src="https://github.com/user-attachments/assets/093f8980-35b1-4226-9933-e5cdd821080e" />
+
 - **Reporting**: Generates text and CSV summaries of the cleaning process.
 - **Modern Dashboard**: Built with Streamlit, featuring a dark mode UI and Lorenix branding.
 - **Visualizations**: View missing values and correlation heatmaps.
